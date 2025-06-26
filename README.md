@@ -4,6 +4,10 @@ Exercício prático utilizando HTML e CSS para elaboração de uma landing page 
 
 ---
 
+## Live Demo
+
+[Visualizar Demo](https://leoandradej.github.io/desenvolve-1/)
+
 ## Features
 
 - Design Responsivo
